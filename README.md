@@ -30,8 +30,8 @@ After years in wet lab biology, I've seen firsthand how computational approaches
 **Completed:**
 - [x] Created GitHub account
 - [x] Set up first repository
-- [ ] Install Python and VS Code
-- [ ] Complete first Python tutorial
+- [x] Install Python and VS Code
+- [x] Complete first Python tutorial
 
 **What I'm Learning:**
 - Git and version control
